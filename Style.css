@@ -1,0 +1,32 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(182, 180, 169);
+}
+#container{
+    width: 600px;
+    border: 1px solid rgb(87, 67, 41);
+    border-radius: 10px;
+    margin: auto;
+    padding: 20px;
+    background-color: rgb(160, 148, 147);
+}
+h1{
+    text-align: center;
+}
+img{
+    display: block;
+    margin: 0 auto;
+    border-radius: 100px;
+}
+#student{
+    text-align: center;
+}
+li{
+    list-style: none;
+    margin-bottom: 5px;
+}
+ul{
+    padding: 0px;
+}
